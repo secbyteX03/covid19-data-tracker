@@ -105,9 +105,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any inquiries or feedback, please open an issue in the repository.
 
-<div align="center" style="margin-top: 40px; color: #6b7280; font-size: 0.9em;">
-  <p>Made with ❤️ for data science and public health</p>
-</div>
+
 
 ## License
 This project is open source and available under the MIT License.

@@ -60,13 +60,13 @@ Correlation between different metrics (Pearson correlation coefficient):
 
 - **Average Mortality in Highly Vaccinated Countries (>50% fully vaccinated)**: 0.92%
 - **Average Mortality in Less Vaccinated Countries (<20% fully vaccinated)**: 2.72%
-\n\n
+
 ## 🇰🇪 Kenya - Specific Insights (as of 2023-10-18)
 
 *   **Total Cases**: 343,999
 *   **New Cases (Latest Day)**: 0
 *   **Total Deaths**: 5,689
-*   **New Deaths (Latest Day)**: 0
+*   **New Deaths (Latest Dgiay)**: 0
 *   **Mortality Rate**: 1.65%
 *   **Total Vaccinations**: 23,750,431
 *   **Vaccination Rate (At Least One Dose)**: 26.8%
