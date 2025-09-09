@@ -83,11 +83,11 @@ covid19-global-tracker/
      python dashboard.py
      ```
 
-## 📈 Data Sources
+## 📈 Data Source
 
-- [Our World in Data COVID-19 Dataset](https://github.com/owid/covid-19-data/tree/master/public/data)
-- [Johns Hopkins University CSSE COVID-19 Data](https://github.com/CSSEGISandData/COVID-19)
-- [World Health Organization (WHO) COVID-19 Data](https://covid19.who.int/)
+- [COVID-19 Coronavirus Dataset by Our World in Data (OWID) on Kaggle](https://www.kaggle.com/datasets/kalilurrahman/covid19-coronavirus-dataset-by-owid?select=owid-covid-data.csv)  
+  This dataset, curated by Our World in Data and hosted on Kaggle, contains comprehensive global COVID-19 statistics including cases, deaths, testing, hospitalizations, and vaccination data. It serves as the sole data source for this project, ensuring consistency and reliability across all analyses and visualizations.
+
 
 ## 📚 Documentation
 
