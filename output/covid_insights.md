@@ -1,4 +1,4 @@
-# COVID-19 Data Analysis Insights\n\n
+# COVID-19 Data Analysis Insights
 ## 🌍 Global COVID-19 Overview (as of 2023-10-24)
 
 ### Key Metrics:
@@ -7,7 +7,7 @@
 *   **Total Vaccinations Administered**: 55.2 billion
 *   **Global Mortality Rate**: 0.89%
 *   **Average Global Vaccination Rate**: 63.3%
-\n\n
+
 ## 📉 Most Affected Countries (by Total Cases, Excluding Aggregates)
 
 | Country | Total Cases | Total Deaths | Mortality Rate (%) |
